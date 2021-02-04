@@ -37,4 +37,4 @@ Hoặc là setup theo dưới đây:
 - Complie file ```.ts``` với ```tsc file.ts```.
 
 📚 Bài học:
-- [Kiểu dữ liệu](/)
+- [Kiểu dữ liệu](/programming/typescript/basic/types.md)
