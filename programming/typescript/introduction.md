@@ -19,15 +19,22 @@ Hoặc là setup theo dưới đây:
 - TypeScript
 - VsCode hoặc bất cứ editor nào khác
 
-:rocket: Ưu điểm của TypeScript:  
+🚀 Ưu điểm của TypeScript:  
 ```
 - Là ngôn ngữ Opensource được phát triển bởi Microsoft.
 - Là một ngôn ngữ Option Static Type.
 - Code sướng hơn.
 ```
-:red_square: Nhược điểm của TypeScript: 
+🟥 Nhược điểm của TypeScript: 
 ```
 - Mất thời gian config hơn (cái này mình sẽ nói sau).
 - Thực ra khi chạy thì nó complie thành JavaScript nên vẫn cần biết JavaScript.
 - Chưa thực sự được hỗ trợ bởi cái library lớn (moment, lodash chẳng hạn.)
 ```
+
+🔧 Công cụ:
+- Sử dụng câu lệnh: ``` npm install -g typescript ``` để có thể cài đặt trình complie.
+- Complie file ```.ts``` với ```tsc file.ts```.
+
+📚 Bài học:
+- [Kiểu dữ liệu](/)
