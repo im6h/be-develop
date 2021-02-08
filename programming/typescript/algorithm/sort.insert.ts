@@ -4,7 +4,7 @@ function insertSort(arr: number[]): Array<number> {
   for (let i: number = 1; i < arr.length; i++) {
     let j: number = i - 1;
     let key: number = arr[i];
-    while (j >= i && arr[j] > key) {
+    while (j >= 0 && arr[j] > key) {
       arr[j + 1] = arr[j];
       j -= 1;
     }
